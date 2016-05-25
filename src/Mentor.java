@@ -8,7 +8,7 @@ import java.util.*;
 // line 48 "model.ump"
 public class Mentor extends Person
 {
-
+string s;
   //------------------------
   // MEMBER VARIABLES
   //------------------------
